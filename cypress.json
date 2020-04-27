@@ -1,3 +1,7 @@
 {
-	"baseUrl": "https://www.kurnik.pl/login.phtml"
+	"baseUrl": "https://www.kurnik.pl/login.phtml",
+	"env": {
+    	"username": "login",
+    	"password": "haslo"
+  }	
 }
