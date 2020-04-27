@@ -1,9 +1,9 @@
 # prerequisites
- - make sure you have npm https://www.npmjs.com/get-npm
+ - make sure you have npm installed https://www.npmjs.com/get-npm
   
 
 # how to run
- - open terminal and clone the repo
+ - git clone https://github.com/baldiq/net_task.git
  - cd net_task
- - npm install 
- - npm run test
+ - npm install - install all dependencies
+ - npm test - run the tests in a headless mode
